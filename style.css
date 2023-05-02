@@ -1,7 +1,7 @@
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr ;
-  gap: 10px; /*tamanho da grid */
+  gap: 2px; /*tamanho da grid */
 }
 
 body {
@@ -80,7 +80,7 @@ h2 {
 .square {
   background: rgb(229, 248, 236);
   border: 1px solid #e7e7e7;
-  padding: 40px;
+  padding: 20px;
   border-radius: 4px;
   margin: 2px;
   display: flex;
